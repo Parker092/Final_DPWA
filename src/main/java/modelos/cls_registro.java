@@ -7,10 +7,6 @@ package modelos;
 
 import java.sql.Date;
 
-/**
- *
- * @author Mery Acevedo
- */
 public class cls_registro {
     int id, idmascota;
     Date fecha;

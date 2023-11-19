@@ -15,7 +15,7 @@ if(session.getAttribute("idpermiso") != null){
 <jsp:include page="/layout/nonav.jsp"></jsp:include>
         <div class="row vh-100 mx-5">
             <div class="col-12 col-lg-6 text-center align-self-center">
-                <h1 class="display-4 fw-bold"><span class="text-primary">Sistema de administración</span> Veterinaria MyM</h1>
+                <h1 class="display-4 fw-bold"><span class="text-primary">Sistema de administración</span> Veterinaria</h1>
                 <h2 class="display-6 fw-bold">Registrar administrador</h2>
             </div>
             <div class="col-12 col-lg-6 align-self-lg-center mx-auto">

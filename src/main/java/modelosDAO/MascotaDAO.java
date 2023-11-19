@@ -14,11 +14,6 @@ import java.util.ArrayList;
 import java.util.List;
 import modelos.cls_mascota;
 
-
-/**
- *
- * @author Mery Acevedo
- */
 public class MascotaDAO {
     Conexion cn = new Conexion();
     Connection con;

@@ -1,8 +1,4 @@
-<%-- 
-    Document   : formCitas
-    Created on : 11-20-2022, 11:24:31 PM
-    Author     : Mery Acevedo
---%><%@page import="modelos.cls_mascota"%>
+<%@page import="modelos.cls_mascota"%>
 <%@page import="modelos.cls_registro"%>
 
 

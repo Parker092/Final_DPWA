@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.codejava</groupId>
-    <artifactId>ParcialFinal_Marco_Mery</artifactId>
+    <artifactId>ParcialFinal</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>ParcialFinal_Marco_Mery</name>
+    <name>ParcialFinal</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>

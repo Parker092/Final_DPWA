@@ -16,10 +16,6 @@ import java.util.List;
 
 import modelos.cls_registro;
 
-/**
- *
- * @author Mery Acevedo
- */
 public class RegistrosDAO {
     Conexion cn = new Conexion();
     Connection con;

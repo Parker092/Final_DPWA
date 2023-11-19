@@ -23,10 +23,6 @@ import modelosDAO.RegistrosDAO;
 import modelosDAO.usuarioDAO;
 import utils.encript;
 
-/**
- *
- * @author Marco
- */
 
 @WebServlet(name = "mascotas", urlPatterns = {"/mascotas", "/mascotas/edit", "/mascotas/delete", "/mascotas/update", "/vistas/citas/formCitas"})
 public class mascotas extends HttpServlet {

@@ -15,7 +15,7 @@ if(session.getAttribute("idpermiso") != null){
 <jsp:include page="/layout/nonav.jsp"></jsp:include>
         <div class="row vh-100 mx-5">
             <div class="col-12 col-lg-6 text-center align-self-center">
-                <h1 class="display-4 fw-bold"><span class="text-primary">Sistema de administración</span> Veterinaria MyM</h1>
+                <h1 class="display-4 fw-bold"><span class="text-primary">Sistema de administración</span> Veterinaria</h1>
             </div>
             <div class="col-12 col-lg-6 align-self-lg-center mx-auto">
                 <div class="card border border-0 shadow-lg p-3 mb-5 bg-body rounded py-5">
@@ -42,6 +42,5 @@ if(session.getAttribute("idpermiso") != null){
                 </div>
             </div>
         </div>
-    </div>
 </body>
 </html>

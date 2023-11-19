@@ -25,10 +25,6 @@ import modelosDAO.RegistrosDAO;
 import modelosDAO.usuarioDAO;
 import utils.encript;
 
-/**
- *
- * @author Marco
- */
 @WebServlet(name = "citas", urlPatterns = {"/citas", "/citas/edit", "/citas/delete", "/citas/update"})
 public class citas extends HttpServlet {
 

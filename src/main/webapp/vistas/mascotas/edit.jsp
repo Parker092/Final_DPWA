@@ -1,8 +1,3 @@
-<%-- 
-    Document   : edit
-    Created on : 11-20-2022, 11:45:35 PM
-    Author     : Mery Acevedo
---%>
 <%@page import="modelos.cls_mascota"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>

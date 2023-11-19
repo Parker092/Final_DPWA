@@ -1,8 +1,5 @@
 package utils;
 
-
-
-
 public class utils {
 
     public static String convertIdpermiso(int idpermiso){

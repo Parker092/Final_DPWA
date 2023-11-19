@@ -18,10 +18,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-/**
- *
- * @author Marco
- */
 @WebServlet(name = "users", urlPatterns = {"/users", "/users/edit", "/users/delete", "/users/update"})
 public class users extends HttpServlet {
 

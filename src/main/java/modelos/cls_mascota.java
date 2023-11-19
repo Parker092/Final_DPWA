@@ -5,10 +5,6 @@
  */
 package modelos;
 
-/**
- *
- * @author Mery Acevedo
- */
 public class cls_mascota {
     private int id,idusuario;
     private String nombre, descripcion, nombreOwner,telOwner;
